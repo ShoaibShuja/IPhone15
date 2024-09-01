@@ -8,7 +8,7 @@ export default defineConfig({
     org: "jsm-su",
     project: "javascript-react"
   })],
-
+  base: "/IPhone15-Clone/",
   build: {
     sourcemap: true
   }
